@@ -29,9 +29,9 @@ include('db_connect.php');
     <div class="col-12 text-center">
 
     <p>
-      <img src="carte2.png" width="30%" height="30%">
-      <img src="carte3.png">
-      <img src="carte4.png">
+      <img src="http://sc1chfl1498.universe.wf/Equ26K7z/site/carte2.PNG" width="30%" height="30%">
+      <img src="http://sc1chfl1498.universe.wf/Equ26K7z/site/carte3.PNG">
+      <img src="http://sc1chfl1498.universe.wf/Equ26K7z/site/carte4.PNG">
     </p>
     </div>
 
